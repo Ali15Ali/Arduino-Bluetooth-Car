@@ -11,7 +11,7 @@ By Ali,Emil und Jakub
 2. Am Handy einen Hotspot mit dem Namen "(.)(.)" und dem Passwort "tittengehnimmer" einrichten. Der Raspberry sollte sich damit verbinden.
 (SSID und Passwort von Jakub. Emil Distanziert sich hiermit ausdrücklich davon, wurde aber bei einer Demokratischen abstimmung gegen den Vorschlag: SSID=Pi und PW=MNG geschlagen.)
 3. Per ssh mit dem Raspberry verbinden (Nutzername: "pi" Passwort:"raspberry")
-4. auf dem Raspberry in den Ordner "Informatik" wechseln (cd Informatik/) und die Datei run.py in Python3 starten (python3 run.py)
+4. auf dem Raspberry in den Ordner "Informatik" wechseln (cd Informatik/) und die Datei run.py in Python3 starten (python3 run.py (!!! Nicht von dem ASCII-Banner erschrecken lassen, dies ist der Projektname, welcher mir von Ali an einem Samstag Abend vorgeschlagen wurde))
 5. Nun zuerst Kamera-Feed starten (k + ENTER oder K + ENTER) und danach Audio-Service starten (a + ENTER oder A + ENTER)
 6. In der App die IP-Adresse des Raspberry eingeben(diese kann man z.B mit hilfe eines Netzwerkscanners herausfinden). Der Port ist 8081. (also z.B 192.168.178.xx:8081)
 7. Auf den Knopf "URL GO" drücken. nun sollte man das Bild der Kamera sehen.
