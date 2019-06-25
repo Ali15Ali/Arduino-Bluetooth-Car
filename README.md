@@ -1,8 +1,11 @@
 # Arduino-Bluetooth-Car
 Bluetooth RC-Car,dass über ein Handy gesteuert wird. Für das Info Projekt am Math.-Nat. Gymnasium Mönchengladbach
 By Ali,Emil und Jakub
+
 ########################
+
 #Raspberry Pi Aufsetzen#
+
 ########################
 1. den Pi über ein MicroUSB Kabel Strom geben. Jetzt sollte der Pi hochfahren.
 2. Am Handy einen Hotspot mit dem Namen "(.)(.)" und dem Passwort "tittengehnimmer" einrichten. Der Raspberry sollte sich damit verbinden.
@@ -11,8 +14,11 @@ By Ali,Emil und Jakub
 4. Auf den Knopf "URL GO" drücken. nun sollte man das Bild der Kamera sehen.
 
 ################################
+
 #Bluetooth Verbindung Aufsetzen#
+
 ################################
+
 1. Dem Auto Strom geben(Akku einstecken)
 2. Bluetooth auf dem Handy Aktivieren, und mit dem Gerät "HC-05" verbinden. Das Passwort ist "0000" oder "1234"
 3. In der App auf das Bluetooth Bild drücken.
@@ -22,8 +28,11 @@ By Ali,Emil und Jakub
 (Wenn das Gerät schon einmal verbunden war mit dem Handy, muss man nicht mehr den 2. Schritt machen)
 
 #######################
+
 #Diese Repo Beinhaltet#
+
 #######################
+
 1. Diese Readme
 2. Einen Arduino Sketch
 3. Die APK der App
