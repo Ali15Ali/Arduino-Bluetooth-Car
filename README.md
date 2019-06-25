@@ -40,4 +40,5 @@ By Ali,Emil und Jakub
 2. Einen Arduino Sketch
 3. Die APK der App
 4. Eine .aia Datei, um auf der MIT Appinventor Seite den Code anzuschauen. (umd dies zu tun muss man sich anmelden und oben bei "Projects", "Import project (.aia) from my computer..." auswählen.
-5. Die Python file für den Rasperry Pi
+5. Die Python file für den Raspberry Pi
+6. Die Motion Config für den Raspberrry Pi
