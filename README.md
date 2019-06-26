@@ -23,7 +23,7 @@ By Ali,Emil und Jakub
 ################################
 
 1. Dem Auto Strom geben(Schalter) (!!! Nicht erforderlich falls Readme von Anfang an befolgt wurde(Siehe "Raspberry Pi Aufsetzen", Schritt 1))
-2. Bluetooth auf dem Handy Aktivieren, und mit dem Gerät "HC-05" verbinden. Das Passwort ist "0000" oder "1234"
+2. Bluetooth auf dem Handy Aktivieren, und mit dem Gerät "HC-06" verbinden. Das Passwort ist "0000"
 3. In der App auf das Bluetooth Bild drücken.
 4. Nun Sollte sich ein Menü öffnen, bei dem man wieder das Gerät HC-05 auswählt.
 5. Nun sollte neben dem Bild ein Grünes "Verbunden" stehen.
